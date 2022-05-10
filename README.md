@@ -4,3 +4,6 @@ In order to run, Uipath needs to be installed locally. Open project.json in uipa
 The .bat file will contain the following(all in one line): 
 
 C:\Users\username_goes_here\AppData\Local\Programs\UiPath\Studio\UiRobot.exe -file "C:\Users\username_goes_here\Desktop\Investment_robot_project\Investmentproject\Investmentproject.1.0.7.nupkg"
+
+A demo of the robot in action can be found here: https://streamable.com/vvb3bs
+
